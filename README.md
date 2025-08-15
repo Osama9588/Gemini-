@@ -23,7 +23,7 @@ Google Gemini Chatbot is a lightweight, browser-based AI chatbot powered by Goog
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/Osama9588/google-gemini-chatbot.git
+git clone https://github.com/Osama9588/Gemini-.git
 cd gemini
 ```
 
